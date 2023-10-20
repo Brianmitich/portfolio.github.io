@@ -389,7 +389,7 @@ header {
   transition: 0.2s ease-in-out;
 }
 .proj-2 .proj2-details button:hover {
-  background: #07374a;
+  background: #ff5945;
 }
 .proj-2 .proj2-details button:hover a,
 .proj-2 .proj2-details button:hover .fas {
