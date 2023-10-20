@@ -314,7 +314,8 @@ header {
   margin-top: 0.5rem;
   width: 150px;
   border: none;
-  border-bottom: 2px solid #07374a;
+  border-bottom: 4px solid #07374a;
+  border-radius: 50%;
 }
 .proj-1 .proj1-details button a {
   text-decoration: none;
@@ -373,7 +374,8 @@ header {
   margin-top: 0.5rem;
   width: 150px;
   border: none;
-  border-bottom: 2px solid #07374a;
+  border-bottom: 4px solid #07374a;
+  border-radius: 50%;
 }
 .proj-2 .proj2-details button a {
   text-decoration: none;
